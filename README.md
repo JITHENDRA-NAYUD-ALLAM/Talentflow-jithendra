@@ -187,7 +187,7 @@ npm run preview
 ## Deliverables
 
 - Deployed App: <your-deployment-url>
-- GitHub Repository: <your-github-repo-url>
+- GitHub Repository: https://github.com/JITHENDRA-NAYUD-ALLAM/Talentflow-jithendra
 
 ## License
 
