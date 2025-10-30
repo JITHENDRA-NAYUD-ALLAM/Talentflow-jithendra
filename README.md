@@ -118,7 +118,6 @@ Assessments
 1) Clone and install
 ```bash
 git clone <your-repo-url>
-cd ENTNT
 npm install
 ```
 
@@ -186,7 +185,7 @@ npm run preview
 
 ## Deliverables
 
-- Deployed App: <your-deployment-url>
+- Deployed App: [<your-deployment-url>](https://talentflow-kappa.vercel.app/)
 - GitHub Repository: https://github.com/JITHENDRA-NAYUD-ALLAM/Talentflow-jithendra
 
 ## License
