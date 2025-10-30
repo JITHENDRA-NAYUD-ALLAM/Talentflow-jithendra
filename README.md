@@ -185,7 +185,7 @@ npm run preview
 
 ## Deliverables
 
-- Deployed App: [<your-deployment-url>](https://talentflow-kappa.vercel.app/)
+- Deployed App: https://talentflow-kappa.vercel.app/
 - GitHub Repository: https://github.com/JITHENDRA-NAYUD-ALLAM/Talentflow-jithendra
 
 ## License
